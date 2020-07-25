@@ -4,3 +4,5 @@ Google Colab notebook written in Python, using the Tensorflow package, which use
 Link - [Personal_Face_Mask_Detection_V3](https://colab.research.google.com/drive/1qdApy4zMEi5zuZ83JiDbbjC1Rp2r3pWa#scrollTo=ht2w87GFBAqp&uniqifier=1)
 
 Video link - [Personal_Face_Mask_Detection_V3](https://www.linkedin.com/posts/shreyas-kera-027727178_machinelearning-facemaskdetection-tensorflow-activity-6692002676055658496-vN2O)
+
+Reddit Post - [Personal_Face_Mask_Detection_V3](https://www.reddit.com/r/learnmachinelearning/comments/hww564/hi_guys_ive_made_a_personalized_face_mask/)
