@@ -20,5 +20,13 @@ Reddit Post - [Personal_Face_Mask_Detection_V3](https://www.reddit.com/r/learnma
  - Case 3: Mask worn but not covering Mouth nor Nose [fail case]
  
  ![](No_Mouth.jpg)
+ 
+ - Case 4: Mask worn but not covering Nose [fail case]
+ 
+ ![](No_Nose.jpg)
+ 
+ - Case 5: Mask worn properly over mouth and nose [pass case]
+ 
+ ![](Mask.jpg)
 
 
