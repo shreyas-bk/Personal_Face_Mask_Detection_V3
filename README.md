@@ -7,14 +7,18 @@ Video link - [Personal_Face_Mask_Detection_V3](https://www.linkedin.com/posts/sh
 
 Reddit Post - [Personal_Face_Mask_Detection_V3](https://www.reddit.com/r/learnmachinelearning/comments/hww564/hi_guys_ive_made_a_personalized_face_mask/)
 
-#Example Results
+# Example Results
+
  - Case 1: No Mask [fail case]
+ 
  ![](No_Mask.jpg)
  
  - Case 2: Hand Covering Mouth [fail case]
+ 
  ![](Hand_Cover.jpg)
  
  - Case 3: Mask worn but not covering Mouth nor Nose [fail case]
+ 
  ![](No_Mouth.jpg)
 
 
