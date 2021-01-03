@@ -1,7 +1,9 @@
 # Personal_Face_Mask_Detection_V3
 Face Mask detection for a a specific user that uses a 2-Factor approach. Repo includes both a Google Colab Notebook containing a tutorial and the necessary code for your own Personal Face Mask Detecion. Newly added folder contains the code that utilizes OpenCV for **Real Time** Face Mask Detection.
 
-Link - [Personal_Face_Mask_Detection_V3](https://colab.research.google.com/drive/1qdApy4zMEi5zuZ83JiDbbjC1Rp2r3pWa#scrollTo=ht2w87GFBAqp&uniqifier=1)
+# Please let me know if you use this work
+
+Link - [Personal_Face_Mask_Detection_V3](https://colab.research.google.com/github/shreyas-bk/Personal_Face_Mask_Detection_V3/blob/master/Personal_Face_Mask_Detection_V3.ipynb)
 
 Video link - [Personal_Face_Mask_Detection_V3](https://www.linkedin.com/posts/shreyas-kera-027727178_machinelearning-facemaskdetection-tensorflow-activity-6692002676055658496-vN2O)
 
